@@ -38,3 +38,6 @@ The neighborhood graph has the following format:
        
         Example: python3 findpatterns-restricted.py adj_taxi.txt taxi-trips.txt 0.1 0.3 10000 manhattan-query.txt
 
+
+  *** WE DO NOT UPLOAD THE OTHER DATASETS DUE TO PRIVACY CONSTRAINTS ***
+

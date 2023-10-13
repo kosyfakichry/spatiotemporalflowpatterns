@@ -1,4 +1,4 @@
-Spatio-temporal flow patterns - ICDE 2024
+Spatio-temporal flow patterns 
 
 Chrysanthi Kosyfaki
 
